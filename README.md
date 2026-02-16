@@ -1,4 +1,7 @@
-<img src="logo/Microlensify_Logo.png" alt="Microlensify Logo" width="150"/>
+<div align="center">
+  <img src="logo/Microlensify_Logo.png" alt="Microlensify Logo" width="400"/>
+</div>
+
 
 # Microlensify
 
