@@ -1,8 +1,9 @@
-<div align="center">
+<div align="center" style="margin-bottom:0;">
   <img src="logo/Microlensify_Logo2.png" alt="Microlensify Logo" width="400"/>
 </div>
-<br>
+
 # Microlensify
+
 
 
 
