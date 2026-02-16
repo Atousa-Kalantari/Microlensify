@@ -1,3 +1,5 @@
+<img src="logo/Microlensify_Logo.png" alt="Microlensify Logo" width="150"/>
+
 # Microlensify
 
 
