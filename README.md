@@ -1,6 +1,6 @@
 <div align="center"> <img src="logo/Microlensify_Logo1.png" alt="Microlensify Logo" width="400"/> </div> 
 
-# Microlensify
+# $$    {\color{purple}Microlensify}    $$
 
 
 
