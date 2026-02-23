@@ -72,7 +72,13 @@ All additional scripts and notebooks used in this work are provided in the `Proj
 
 ## Citation
 
-If you use Microlensify in your research, please cite it appropriately.
+If you use **Microlensify** in your work, please cite it.
+
+A journal paper is coming soon — citation details will be updated here once published.
+
+In the interim, feel free to reference this repo: https://github.com/Atousa-Kalantari/Microlensify
+
+We'd love your support — please give us a ⭐ on GitHub!
 
 ---
 
