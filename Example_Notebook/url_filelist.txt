@@ -1,0 +1,1 @@
+https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:HLSP/qlp/s0033/0000/0001/2379/3270/hlsp_qlp_tess_ffi_s0033-0000000123793270_tess_v01_llc.fits	SAP_FLUX	TIME
