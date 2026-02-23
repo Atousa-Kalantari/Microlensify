@@ -65,6 +65,15 @@ All results are saved to `prediction_results.csv` with the following columns:
 | `Chunk_Description` | Description of the chunk used |
 
 ---
+## Running Examples
+An interactive example showing how to:
+- Run Microlensify on sample data,
+- Make predictions,
+- Reconstruct light curves from the latent space,
+
+is provided in the **`Example_Notebook`** folder as a Jupyter notebook.
+
+You can open and run it directly in Jupyter, Colab, or VS Code to see the full workflow in action.
 
 ## Additional Project Codes:
 All additional scripts and notebooks used in this work are provided in the `Project_Codes` folder.
