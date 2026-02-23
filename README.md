@@ -48,7 +48,7 @@ Microlensify <input_file> <compute_stats> <n_cores>
 - **URL input:** list the URLs and the flux/time column names.  
 - **Local files:** list file paths and the flux/time column names.
 
-- Example input files are provided in the `Microlensify_Input_Examples` folder.
+- Example input files are provided in the **`Microlensify_Input_Examples`** folder.
 
 ## Output
 
